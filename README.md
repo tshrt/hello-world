@@ -1,4 +1,4 @@
 # hello-world
 github initiation tutorial, Hello World: GitHub Guides
 
-Student in United States, I enjoy programming and making and the philosophical concepts and issues that arise from the technological revolution currently taking place. My particular passion is the open-source movement, appropriate technology (especially the economic ideas put forth in the work, "Small is Beautiful"). I am also interested in patent reform, repair culture, the ambiguity of private property rights in technology (EULAS, License/Service Agreements, etc.), transhumanism, Augmented versus Artificial Intelligence, and more generally advocating for compassion and fostering social responsibility in the design and implementation of future technologies, as opposed to a make money first ask questions later approach that is currently the modus operandi of many tech entrepreneurs. 
+Student in United States, I enjoy programming and making and the philosophical concepts and issues that arise from the technological revolution currently taking place.
